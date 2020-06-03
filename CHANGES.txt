@@ -7,6 +7,9 @@ upgrade to a newer release of Python.
 Features
 --------
 
+* Add in a 'pagination' theme, including a paginated-post template,
+  and the css/javascript for managing it
+
 Bugfixes
 --------
 
